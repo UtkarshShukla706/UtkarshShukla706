@@ -3,10 +3,10 @@ My name is **Utkarsh Shukla**
 =======================================================================================================================================
 
 🚀 **Aspiring Software Development Engineer | Full-Stack & AI**
----------------------------------------------------------------
+
 
 🎓 Final-year undergraduate with a strong foundation in **DSA & Object-Oriented Programming**, focused on building **scalable, production-ready full-stack and AI-driven applications** through real-world projects.  
-💻 Passionate about clean architecture, backend systems, and writing maintainable code.
+
 
 ---
 
