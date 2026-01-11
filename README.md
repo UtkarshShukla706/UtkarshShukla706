@@ -28,20 +28,6 @@ My name is **Utkarsh Shukla**
 ![](https://github-readme-stats.vercel.app/api?username=UtkarshShukla706&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=UtkarshShukla706&theme=dark&hide_border=true)<br/>
 
-#### 🔹 Core Computer Science
-- Data Structures & Algorithms (DSA)
-- Object-Oriented Programming (OOP)
-- Database Management Systems (DBMS)
-- Operating System fundamentals
-- RESTful APIs & backend workflows
-
-#### 🔹 Additional Skills
-- Systematic debugging & problem-solving
-- Writing clean, scalable, and maintainable code
-- API integration & state management
-- Real-world project development experience
-
-
 ---
 
 # 🌐 Socials:
