@@ -40,24 +40,8 @@ My name is **Utkarsh Shukla**
 
 ---
 
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.github.com/UtkarshShukla706" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-     width="35" height="35" style="margin-right:25px;" />
-</a>
-
-<a href="https://www.x.com/@utkarsh70691" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
-     width="35" height="35" style="margin-right:25px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/utkarsh-shukla-31597b276" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-     width="35" height="35" style="margin-right:25px;" />
-</a>
-</p>
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utkarsh-shukla-31597b276) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@utkarsh70691) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:utkarshshukla706@gmail.com) 
 
 
 
