@@ -15,9 +15,7 @@ My name is **Utkarsh Shukla**
 * 🌍  Based in **Kanpur, India**
 * ✉️  Reach me at **[utkarshshukla706@gmail.com](mailto:utkarshshukla706@gmail.com)**
 * 🏢  Worked on real-world systems at **VoyageX AI** (VMS, PMS, AI pipelines)
-* 🧠  Currently learning **Backend Development with Java**
-* ⚙️  Strong focus on **clean, scalable & maintainable code**
-* 🧩  Comfortable with **DSA, OOP, REST APIs & system workflows**
+
 
 ---
 
