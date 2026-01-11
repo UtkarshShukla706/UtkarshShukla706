@@ -26,69 +26,83 @@ My name is **Utkarsh Shukla**
 #### 🔹 Primary Programming Languages
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="39" height="39" title="Java"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
+     width="39" height="39" title="Java" style="margin-right:12px;"/>
 </a>
 </p>
 
 #### 🔹 Secondary Programming Languages
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="39" height="39" title="JavaScript"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+     width="39" height="39" title="JavaScript" style="margin-right:12px;"/>
 </a>
 <a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="39" height="39" title="Python"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
+     width="39" height="39" title="Python" style="margin-right:12px;"/>
 </a>
 <a href="https://dart.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="39" height="39" title="Dart"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg"
+     width="39" height="39" title="Dart" style="margin-right:12px;"/>
 </a>
 </p>
 
 #### 🔹 Frontend Development
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="39" height="39" title="HTML5"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+     width="39" height="39" title="HTML5" style="margin-right:12px;"/>
 </a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="39" height="39" title="CSS3"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+     width="39" height="39" title="CSS3" style="margin-right:12px;"/>
 </a>
 <a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="39" height="39" title="React"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+     width="39" height="39" title="React" style="margin-right:12px;"/>
 </a>
 </p>
 
 #### 🔹 Backend Development
 <p align="left">
 <a href="https://nodejs.org/en/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="39" height="39" title="Node.js"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
+     width="39" height="39" title="Node.js" style="margin-right:12px;"/>
 </a>
 </p>
 
 #### 🔹 Databases & Cloud
 <p align="left">
 <a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="39" height="39" title="MongoDB"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
+     width="39" height="39" title="MongoDB" style="margin-right:12px;"/>
 </a>
 <a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="39" height="39" title="MySQL"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
+     width="39" height="39" title="MySQL" style="margin-right:12px;"/>
 </a>
 <a href="https://firebase.google.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="39" height="39" title="Firebase"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg"
+     width="39" height="39" title="Firebase" style="margin-right:12px;"/>
 </a>
 </p>
 
 #### 🔹 Mobile App Development
 <p align="left">
 <a href="https://flutter.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="39" height="39" title="Flutter"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg"
+     width="39" height="39" title="Flutter" style="margin-right:12px;"/>
 </a>
 </p>
 
 #### 🔹 AI / Machine Learning
 <p align="left">
 <a href="https://pytorch.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="39" height="39" title="PyTorch"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg"
+     width="39" height="39" title="PyTorch" style="margin-right:12px;"/>
 </a>
 </p>
+
 
 #### 🔹 Core Computer Science
 - Data Structures & Algorithms (DSA)
@@ -110,17 +124,22 @@ My name is **Utkarsh Shukla**
 
 <p align="left">
 <a href="https://www.github.com/UtkarshShukla706" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
+     width="35" height="35" style="margin-right:25px;" />
 </a>
+
 <a href="https://www.x.com/@utkarsh70691" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
+     width="35" height="35" style="margin-right:25px;" />
 </a>
+
 <a href="https://www.linkedin.com/in/utkarsh-shukla-31597b276" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+     width="35" height="35" style="margin-right:25px;" />
 </a>
 </p>
+
 
 ---
 
 ⭐ *Always learning, always building — aiming for high-impact SDE roles.*
-
