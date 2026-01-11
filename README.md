@@ -10,7 +10,7 @@ My name is **Utkarsh Shukla**
 
 ---
 
-### 👨‍💻 About Me
+# 👨‍💻 About Me
 
 * 🌍  Based in **Kanpur, India**
 * ✉️  Reach me at **[utkarshshukla706@gmail.com](mailto:utkarshshukla706@gmail.com)**
@@ -21,87 +21,13 @@ My name is **Utkarsh Shukla**
 
 ---
 
-### 🛠️ Skills
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-#### 🔹 Primary Programming Languages
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
-     width="39" height="39" title="Java" style="margin-right:12px;"/>
-</a>
-</p>
-
-#### 🔹 Secondary Programming Languages
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
-     width="39" height="39" title="JavaScript" style="margin-right:12px;"/>
-</a>
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
-     width="39" height="39" title="Python" style="margin-right:12px;"/>
-</a>
-<a href="https://dart.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg"
-     width="39" height="39" title="Dart" style="margin-right:12px;"/>
-</a>
-</p>
-
-#### 🔹 Frontend Development
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-     width="39" height="39" title="HTML5" style="margin-right:12px;"/>
-</a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
-     width="39" height="39" title="CSS3" style="margin-right:12px;"/>
-</a>
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
-     width="39" height="39" title="React" style="margin-right:12px;"/>
-</a>
-</p>
-
-#### 🔹 Backend Development
-<p align="left">
-<a href="https://nodejs.org/en/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
-     width="39" height="39" title="Node.js" style="margin-right:12px;"/>
-</a>
-</p>
-
-#### 🔹 Databases & Cloud
-<p align="left">
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
-     width="39" height="39" title="MongoDB" style="margin-right:12px;"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
-     width="39" height="39" title="MySQL" style="margin-right:12px;"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg"
-     width="39" height="39" title="Firebase" style="margin-right:12px;"/>
-</a>
-</p>
-
-#### 🔹 Mobile App Development
-<p align="left">
-<a href="https://flutter.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg"
-     width="39" height="39" title="Flutter" style="margin-right:12px;"/>
-</a>
-</p>
-
-#### 🔹 AI / Machine Learning
-<p align="left">
-<a href="https://pytorch.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg"
-     width="39" height="39" title="PyTorch" style="margin-right:12px;"/>
-</a>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=UtkarshShukla706&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=UtkarshShukla706&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshShukla706&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 #### 🔹 Core Computer Science
@@ -138,6 +64,8 @@ My name is **Utkarsh Shukla**
      width="35" height="35" style="margin-right:25px;" />
 </a>
 </p>
+
+
 
 
 ---
