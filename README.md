@@ -75,12 +75,12 @@ Contact     : utkarshshukla706@gmail.com
 
 ## `github.telemetry`
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=UtkarshShukla706&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=UtkarshShukla706&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 <img height="165" src="https://streak-stats.demolab.com?user=UtkarshShukla706&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshShukla706&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=UtkarshShukla706&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -91,10 +91,33 @@ Contact     : utkarshshukla706@gmail.com
 ## `connect --with-me`
 
 <a href="https://linkedin.com/in/utkarsh-shukla-31597b276">
-  <img src="https://img.shields.io/badge/LinkedIn-00FF41?style=flat-square&logo=linkedin&logoColor=black" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
 </a>
 <a href="https://github.com/UtkarshShukla706">
-  <img src="https://img.shields.io/badge/GitHub-00FF41?style=flat-square&logo=github&logoColor=black" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
 </a>
 <a href="https://x.com/utkarsh70691">
-  <img src="https://img.shields.io/badge/X-00FF41?style=flat-square&logo=x&logoColor=black" alt="X" />
+  <img src="https://img.shields.io/badge/X-00FF41?style=for-the-badge&logo=x&logoColor=black" alt="X" />
+</a>
+<a href="mailto:utkarshshukla706@gmail.com">
+  <img src="https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+</a>
+
+<br/><br/>
+
+```txt
+$ echo "Always learning. Always building. Always improving."
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```txt
+session closed.
+thanks for stopping by _
+```
+
+</div>
