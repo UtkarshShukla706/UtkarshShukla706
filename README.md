@@ -1,42 +1,94 @@
-Hi 👋  
-My name is **Utkarsh Shukla**
-=======================================================================================================================================
+<div align="center">
 
-🚀 **Aspiring Software Development Engineer | Full-Stack & AI**
----------------------------------------------------------------
-
-
-🎓 Final-year undergraduate with a strong foundation in **DSA & Object-Oriented Programming**, focused on building **scalable, production-ready full-stack and AI-driven applications** through real-world projects.  
-
-
-
-
-# 👨‍💻 About Me
-
-* 🌍  Based in **Kanpur, India**
-* ✉️  Reach me at **[utkarshshukla706@gmail.com](mailto:utkarshshukla706@gmail.com)**
-* 🏢  Worked on real-world systems at **VoyageX AI** (VMS, PMS, AI pipelines)
++--------------------------------------------------------------+
+|                                                              |
+|   $ init_profile --user UtkarshShukla706                     |
+|   $ loading developer workspace...                           |
+|   $ mode: full-stack | ai | production-ready builds           |
+|   $ status: online [####################] 100%                |
+|                                                              |
++--------------------------------------------------------------+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&width=720&lines=Hi%2C+I+am+Utkarsh+Shukla+%3E_;Aspiring+Software+Development+Engineer;Full-Stack+Developer+%7C+AI+Explorer;Building+scalable+apps+with+clean+logic" alt="Typing SVG" />
 
 
+<img src="https://komarev.com/ghpvc/?username=UtkarshShukla706&label=Profile%20Views&color=00ff41&style=flat-square" alt="Profile Views" />
 
+</div>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<div align="center">
 
-# 📊 GitHub Stats:
-<!--
-![](https://github-readme-stats.vercel.app/api?username=UtkarshShukla706&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
--->
-![](https://nirzak-streak-stats.vercel.app/?user=UtkarshShukla706&theme=dark&hide_border=true)
+whoami
+</div>
 
+Name        : Utkarsh Shukla
+Location    : Kanpur, India
+Role        : Aspiring Software Development Engineer
+Focus       : Full-stack systems, AI-driven apps, scalable product builds
+Foundation  : Data Structures, Object-Oriented Programming, problem solving
+Experience  : Built real-world systems at VoyageX AI
+Contact     : utkarshshukla706@gmail.com
+<div align="center">
 
-
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utkarsh-shukla-31597b276) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@utkarsh70691) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:utkarshshukla706@gmail.com) 
-
+workspace.tech
+Languages
+<img src="https://skillicons.dev/icons?i=java,javascript,python,dart,html,css&theme=dark" alt="Languages" />
 
 
 
----
 
-⭐ *Always learning, always building — aiming for high-impact SDE roles.*
+Frontend / App Development
+<img src="https://skillicons.dev/icons?i=react,flutter,figma&theme=dark" alt="Frontend and App Development" />
+
+
+
+
+Backend / Database / Cloud
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,mysql&theme=dark" alt="Backend Database Cloud" />
+
+
+
+
+AI / ML Toolkit
+[ TensorFlow ] [ OpenCV ] [ NumPy ] [ Pandas ] [ Matplotlib ] [ scikit-learn ]
+</div>
+
+<div align="center">
+
+github.telemetry
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=UtkarshShukla706&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=UtkarshShukla706&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
+
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshShukla706&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+connect --with-me
+<a href="https://linkedin.com/in/utkarsh-shukla-31597b276">
+  <img src="https://img.shields.io/badge/LinkedIn-00FF41?style=flat-square&logo=linkedin&logoColor=black" alt="LinkedIn" />
+</a>
+<a href="https://github.com/UtkarshShukla706">
+  <img src="https://img.shields.io/badge/GitHub-00FF41?style=flat-square&logo=github&logoColor=black" alt="GitHub" />
+</a>
+<a href="https://x.com/utkarsh70691">
+  <img src="https://img.shields.io/badge/X-00FF41?style=flat-square&logo=x&logoColor=black" alt="X" />
+</a>
+<a href="mailto:utkarshshukla706@gmail.com">
+  <img src="https://img.shields.io/badge/Email-00FF41?style=flat-square&logo=gmail&logoColor=black" alt="Email" />
+</a>
+
+
+
+
+$ echo "Always learning. Always building. Always improving."
+</div>
+
+<div align="center">
+
+session closed.
+thanks for stopping by _
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&duration=3000&pause=700&color=00FF41&center=true&width=520&lines=See+you+in+the+next+commit+%3E_" alt="Footer Typing SVG" />
+
+</div>
